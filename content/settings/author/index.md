@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = "/img/default-author.jpg"
+name = "Oona Kaliopi Schädeli"
+image = "/media/conor-sexton-hremch0zdwi-unsplash-2.jpg"
 url = "/about/"
 +++
