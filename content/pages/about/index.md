@@ -4,10 +4,8 @@ draft = false
 image = "img_1345-3.jpeg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](img_1345-3.jpeg)
 
-## My Name
+## Oona Kaliopi Schädeli
 
-mail@example.org
-
-Here should be some info about me...
+## email: onakaliopi@icloud.com
