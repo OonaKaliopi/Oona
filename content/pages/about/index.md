@@ -1,8 +1,8 @@
 +++
-title = "About me"
+title = "Oona Kaliopi Schädeli"
 draft = false
+image = "img_1345-3.jpeg"
 description = ""
-image = "/img/default-author.jpg"
 +++
 ![](/img/default-author.jpg)
 
