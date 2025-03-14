@@ -52,5 +52,3 @@ Ich denke teilweise ja. Ich kann wieder mehr ich selber sein und ich bin auch ni
 Zum Abschluss möchte ich noch sagen, dass meine Patentante mich mit 38 Jahren adoptiert hat. Jetzt habe ich zumindest auf Papier wieder eine Mutter.
 
 > «Ich kann wieder mehr ich selber sein und ich bin auch nicht mehr wütend auf mein Schicksal.»
-
-{{<box>}}Anna Lindow ist die Tochter des Malers Christian Lindow und selber Konsthistorikerin. Sie ist 40 Jahre alt und lebt mit ihren Zwei Kindern im Marzili.{{</box>}}
