@@ -7,6 +7,8 @@ image = "photo-2025-03-11-19-24-31.jpeg"
 +++
 {{<lead>}}**In jungen Jahren Vollwaise -ein tiefgreifender Einschnitt in das Leben. Wie ein solcher die Identität und Beziehungen beeinflusst, erzählt mir Anna Lindow, die mit 8 Jahren innerhalb von drei Wochen beide Eltern verloren hat.**{{</lead>}}
 
+{{<box>}}Anna Lindow ist die Tochter des Malers Christian Lindow und selber Konsthistorikerin. Sie ist 40 Jahre alt und lebt mit ihren Zwei Kindern im Marzili.{{</box>}}
+
 **Oona: Anna, du hast früh beide Eltern verloren. Wie hast du die Ereignisse damals wahrgenommen?**
 
 Anna: Ich kann mich daran erinnern, dass ich in diesem Moment keine Trauer spürte. Vermutlich hatte mein Unterbewustsein eine Mauer aufgebaut, welche die Traumata nicht an mich heranliess. Mein Wunsch war es, sofort wieder zur Schule zu gehen, um einen klaren Tagesablauf zu behalten. Eine Theorie von Therapeuten ist, dass ich aufgrund meines jungen Alters noch gar nicht richtig begreifen konnte, was geschehen war. Ich glaube, richtig realisiert habe ich das erst in der Pubertät. Zu dieser Zeit hat es sich so angfühlt, als wäre ich alleine auf dieser Welt. Was immer präsent war, ist das Gefühl, sich überall anpassen zu müssen. Die Angst, wieder das Zuhause wechseln zu müssen, wenn ich mich nicht richtig verhalten würde, war so gross, dass ich meine Pubertät nicht ausleben konnte. Das Bedingungslose, was Eltern einem geben, hatte durch ihren frühzeitigen Tod gefehlt.
@@ -22,6 +24,8 @@ Ich denke, wenn einem so abrupt nur die Erinnerung an die Beziehung bleibt, glor
 **Wie hat deine Kindheit dein Selbstbewustsein und dein Selbstbild beeinflusst?**
 
 Ich merke noch heute, dass ich immer versuche, niemanden zu verletzen oder gegen mich aufzubringen. Manchmal ist das durchaus ein Problem, denn man kann es nicht immer jedem recht machen. Meine Verlustängste spielen auch eine grosse Rolle in Beziehungen zu Männern. In diesem Zusammenhang fällt es mir besonders schwer, deren Bedürfnisse nicht über meine eigenen zu stellen.
+
+![Anna Lindow (40 Jahre) bei einem Frühlingsspaziergang](photo-2025-03-11-19-24-31.jpeg)
 
 **Musstest du durch den Tod deiner Eltern so früh erwachsen werden oder teilt sich deine Kindheit in zwei Teile auf?**
 
